@@ -3,11 +3,11 @@ school-automation-system
 
 School Automation System is a project designed to integrate smart technologies into educational institutions, enhancing efficiency and minimizing manual tasks.
 
-Key Features:
+Key Features:control (automatic/manual via smartphone)
 
 📚 RFID-based automatic attendance tracking
 
-💡 Smart corridor and classroom lighting control (automatic/manual via smartphone)
+💡 Smart corridor and classroom lighting 
 
 🌱 Automated garden irrigation system based on soil moisture levels
 

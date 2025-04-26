@@ -37,10 +37,7 @@ Reduced manual intervention
 
 Improved energy and water conservation
 
-🚀 Future Plans:
-
 Visitor tracking using RFID
 
 Motion sensors for smarter lighting
 
-Renewable energy integration
